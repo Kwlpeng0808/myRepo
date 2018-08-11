@@ -1,4 +1,4 @@
-#This folder contains ten .m files.
+#This project contains ten .m files.
 
 ##1. DifferentHazeRemove.m
 ###Implement single image haze removal using dark channel prior. Try many different improvements and compare the results.
